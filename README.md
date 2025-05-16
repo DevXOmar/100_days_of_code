@@ -1,37 +1,48 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2821
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+Welcome to my repository for the #100DaysOfCode challenge, where I completed a series of Python projects over 100 days. This collection showcases my journey of learning Python through hands-on programming, building mini-projects, and mastering core concepts.
 
-\f0\fs24 \cf0 # \uc0\u55356 \u57263  100 Days of Code - Python Projects\
-\
-This repository contains the projects and practice work I completed as part of the **#100DaysOfCode** challenge. Over the course of 100 lectures, I explored core concepts in Python programming and applied them by building hands-on mini-projects.\
-\
-## \uc0\u55356 \u57119  What I Learned\
-- Python syntax and control structures\
-- Data structures: **Lists, Sets, Dictionaries**, and their practical uses\
-- Looping techniques and different types of **for loops**\
-- Python\'92s `random` module and the **Mersenne Twister** algorithm\
-\
-## \uc0\u55357 \u57056 \u65039  Projects Included\
-- \uc0\u55356 \u57262  **Hangman Game**  \
-- \uc0\u55357 \u56592  **Caesar Cipher Tool** (Encrypting & Decrypting text)  \
-- \uc0\u9824 \u65039  **Blackjack Game**  \
-- \uc0\u55356 \u57263  **Number Guessing Game**  \
-- \uc0\u9994 \u9995 \u9996 \u65039  **Rock-Paper-Scissors Game**  \
-- \uc0\u55357 \u56593  **Password Generator**  \
-- \'85and more!\
-\
-## \uc0\u55357 \u56960  About the Journey\
-This challenge was more than just writing code\'97it was about building **discipline**, nurturing **curiosity**, and developing **confidence** in solving problems using Python.\
-\
-I\'92m excited for what\'92s next. This is just the beginning!\
-\
----\
-\
-### \uc0\u55357 \u56599  Let\'92s Connect\
+📖 Overview
+
+Through 100 lectures, I explored Python programming by applying theoretical knowledge to practical projects. This challenge helped me build a strong foundation in coding, problem-solving, and disciplined learning.
+
+🧠 What I Learned
+
+Python Fundamentals: Syntax, variables, and control structures (if-else, loops).
+Data Structures: Lists, sets, dictionaries, and their real-world applications.
+Looping Techniques: Various forms of for and while loops for efficient coding.
+Random Module: Leveraging Python's random module and understanding the Mersenne Twister algorithm.
+
+🚀 Projects
+
+Here are some of the key projects included in this repository:
+
+Hangman Game: A word-guessing game with interactive gameplay.
+Caesar Cipher Tool: A program for encrypting anddecrypting text using the Caesar cipher technique.
+Blackjack Game: A card game simulation implementing game logic and rules.
+Number Guessing Game: A fun game to guess a randomly generated number.
+Rock-Paper-Scissors: A classic game with user and computer choice
+Password Generator: A tool to create secure, random passwords.
+The Snake Game : 
+The Pong Game :
+
+
+
+...and many more!
+
+Each project is designed to reinforce specific Python concepts and improve my coding skills.
+
+🌟 The Journey
+
+The #100DaysOfCode challenge was a transformative experience. Beyond writing code, it taught me:
+
+
+Discipline: Committing to daily coding and consistent learning.
+Curiosity: Exploring new Python features and problem-solving techniques.
+Confidence: Tackling complex problems and building functional projects.
+
+This milestone marks the beginning of my programming journey, and I'm excited to continue learning and building!
+
+
+Lets connect : 
 Feel free to check out my work, share feedback, or connect with me on [LinkedIn](https://www.linkedin.com) or right here on GitHub.\
 \
 ---\
