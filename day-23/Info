@@ -1,1 +1,5 @@
-The Turtle Crossing Game is a fun Python project using the turtle library, where the player guides a turtle safely across a busy road filled with moving vehicles. The game begins with the player controlling the turtle’s movement using the keyboard (typically the “Up” key). Vehicles of varying speeds and sizes move horizontally across the screen, presenting challenges to avoid collisions. Each successful crossing increases the difficulty by adding more vehicles or speeding them up. The objective is to cross as many times as possible without hitting any vehicles, making it a test of reflexes and strategy.
+The Turtle Crossing Game is a fun Python project using the turtle library, where the player guides a turtle safely across a 
+busy road filled with moving vehicles. The game begins with the player controlling the turtle’s movement using the keyboard 
+(typically the “Up” key). Vehicles of varying speeds and sizes move horizontally across the screen, presenting challenges to avoid
+collisions. Each successful crossing increases the difficulty by adding more vehicles or speeding them up. The objective is to cross
+as many times as possible without hitting any vehicles, making it a test of reflexes and strategy.
