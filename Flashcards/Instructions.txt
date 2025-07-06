@@ -1,0 +1,11 @@
+This is a language flashcard trainer for learning new languages.
+
+Currently the languages are French and Japanese.
+
+After 2 seconds on each card, its English equivalent turns up.
+
+You can click the TICK (✓) button if you wish to skip this word.
+
+You can click the Cross (✕) button if you want to see the other language again.
+
+Happy Learning !
