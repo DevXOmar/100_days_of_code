@@ -18,6 +18,7 @@ with open("birthdays.csv", mode = "r") as file:
     next(data1)
 
     for x in data1:
+     if len(x)==5: ## index out of bound error fix.
         birth_data1 =  {"Name":x[0],"Email":x[1],"Year":x[2],"Month":x[3],"Day":x[4]}
         birth_data.append(birth_data1)
 
@@ -32,7 +33,7 @@ for x in birth_data:
     if day_of_month == int(x["Day"]) and month_of_year == int(x["Month"]):
         with open(letter_head, mode="r") as file:
             env = file.read()
-            env = env.replace("[NAME]",x["Name"])
+            env = env.replace("[NAME]",x["Name"]) ##.
 
         with smtplib.SMTP("smtp.gmail.com", 587) as connection:
             connection.starttls()
