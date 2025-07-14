@@ -1,3 +1,5 @@
+#Sends an sms to the target number if the weather conditions are rainy or humid.
+
 import requests
 from twilio.rest import Client
 import os
