@@ -10,6 +10,7 @@ header = {
     'x-app-id':API_ID,
     'x-app-key':API_KEY
 }
+
 json1 = {
   "query": input("Enter exercise session: ")
 }
