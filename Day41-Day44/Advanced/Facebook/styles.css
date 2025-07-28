@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    height:90vh;
+}
+h1{
+    color:#1877f2;
+    font-size: 3rem;
+}
+#main-container{
+    display: flex;
+    background-color: white;
+    width:97%;
+    max-width: 1900px;
+    box-shadow: 3px 0 5px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+#left-container{
+    flex:2;
+    padding:40px;
+}
+#right-container{
+    flex:1;
+    padding:40px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+#login-form{
+    width:100%;
+    max-width: 400px;
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    padding:30px;
+    box-shadow: 2px 4px 15px rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+
+
+#login-btn{
+    background-color: #1877f2;
+    color:white;
+    padding:10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+}
+#login-btn:hover {
+    background-color: #165cdb;
+}
+#createyouraccount{
+    background-color:#42b72a;
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius: 2px;
+}
+#createyouraccount:hover{
+    background-color: #36a420;
+}
+#email,#password{
+    font:40px;
+    width:100%;
+}
