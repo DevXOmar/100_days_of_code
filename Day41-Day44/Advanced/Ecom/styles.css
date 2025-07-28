@@ -1,0 +1,108 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    height:90vh
+}
+#top{
+    background-color: black;
+    color:white;
+    padding:10px;
+    justify-content:center;
+    align-items:center;
+    display:flex;
+    flex-direction: column;
+}
+#nav-bar{
+    background-color: gray;
+    color: white;
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    font-size: 20px;
+}
+#content{
+    height:30vh;
+}
+.navlink{
+    text-decoration: none;
+    color:white;
+    padding:10px;
+    box-shadow: 2px 0 2px rgba(0,0,0,0.1);  /*The Main deal*/
+
+}
+#footer1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+   
+
+}
+.image-gallery {
+            display: flex;
+            justify-content: center;
+            gap: 5rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+            padding: 10px;
+            width:100%;
+        }
+.image-gallery img {
+            width: 300px;
+            height: 400px;
+    
+            border-radius: 10px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1); /*The Main Game.*/
+            transition: transform 1s ease;
+        }
+
+ .image-gallery img:hover {
+            transform: scale(1.05);
+        }
+.add-to-cart{
+    background-color: black;
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+}
+#contact-form{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    height:50vh;
+   
+}
+#gam2{
+    padding:20px;
+     box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+#gam1{
+
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+#submit-btn{
+    width: 10%;
+     box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+.text-gallery {
+    display: flex; /* Sets the layout to Flexbox */
+    justify-content: center; 
+    flex-wrap: wrap; 
+    gap: 100px; /* Adds consistent spacing between the boxes */
+    padding: 10px; /* Adds padding around the gallery */
+    width: 100%; /* Ensures the gallery takes the full width of its container */
+}
+
+.box {
+
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    border-radius: 10px;
+
+}
