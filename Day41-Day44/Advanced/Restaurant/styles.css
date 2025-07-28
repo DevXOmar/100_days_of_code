@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+#top{
+    background-color: maroon;
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#navbar{
+    background-color: red;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding : 20px;
+    gap:80px;
+}
+.navlink{
+    color: white;
+    text-decoration: none;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+#content{
+    margin:3rem;
+}
+#footer1{
+    background-color: maroon;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding : 20px;
+    color: white;
+
+}
