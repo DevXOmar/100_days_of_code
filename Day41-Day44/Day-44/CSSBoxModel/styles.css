@@ -1,0 +1,25 @@
+#box1{
+    width : 200px;
+    height: 200px;
+    background-color: red;
+    margin: 10px;
+    padding: 20px;
+    border: 10px solid black;
+}
+#box2{
+    width : 200px;
+    height: 200px;
+    background-color: gold;
+    margin: 10px;
+    padding: 20px;
+     border: 10px solid black;
+     margin-left: 270px;
+}
+#box3{
+    width : 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+     border: 10px solid black;
+}
